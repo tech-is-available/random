@@ -1,0 +1,11 @@
+ACK scan - nmap -sA -T4 scanme.nmap.org
+
+SYN Scan -  nmap -p22,113,139 scanme.nmap.org
+
+FIN Scan -  nmap -sF -T4 scanme.nmap.org
+
+NULL Scan - nmap -sN -p 22 scanme.nmap.org
+
+XMAS Scan - nmap -sX -T4 scanme.nmap.org
+
+INTENSE - nmap -T4 -A -v scanme.nmap.org

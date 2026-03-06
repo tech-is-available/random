@@ -1,0 +1,7 @@
+ifconfig
+
+netstat
+
+ping 8.8.8.8
+
+tracerouter 8.8.8.8

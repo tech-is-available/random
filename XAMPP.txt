@@ -1,0 +1,7 @@
+XSS
+localhost/dvwa/setup.php
+
+
+SQL INJECTION
+localhost/phpmyadmin
+localhost/dvwa/setup.php
